@@ -8,3 +8,6 @@
 ### 📫 How to reach me: https://www.linkedin.com/in/fernando-barbosa-a790771b8
 ### São Paulo, Brasil
 
+![fernandoobarbosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoobarbosa&show_icons=true&theme=radical)
+
+
