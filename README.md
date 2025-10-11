@@ -37,7 +37,7 @@ I'm also interested in **contributing to open-source projects** and **collaborat
 
 ## 📫 Contact
 
-* 💼 [**LinkedIn**](https://www.linkedin.com/in/fernandobarbosa)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/fernando-barbosa-a790771b8)
 * 📧 **[fernandobarbosa1697@gmail.com](mailto:fernandobarbosa1697@gmail.com)**
 
 ---
