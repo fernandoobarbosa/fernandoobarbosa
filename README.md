@@ -1,16 +1,47 @@
-# Fernando Barbosa
+# 👋 **Fernando Barbosa**
 
-## Sobre mim
-Olá! Eu sou Fernando Barbosa, um desenvolvedor backend apaixonado por criar soluções eficientes e escaláveis para problemas complexos. Com uma sólida experiência em desenvolvimento de software, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+## 💡 About Me
 
-## Tecnologias
-- Linguagens de programação: Javascript, Typescript
-- Frameworks: Nest
-- Bancos de dados: MySQL, PostgreSQL, MongoDB
-- Ferramentas de versionamento: Git, GitHub
+Hello! I'm **Fernando Barbosa**, a **backend developer** passionate about building **efficient** and **scalable** solutions for complex problems.
+With solid experience in software development, I'm always eager to **learn new technologies** and **improve my skills**.
+I'm also interested in **contributing to open-source projects** and **collaborating** with developers from around the world.
 
-## Contato
-- LinkedIn: [Fernando Barbosa](https://www.linkedin.com/in/fernandobarbosa)
-- Email: fernando.barbosa@email.com
+---
 
-Fique à vontade para explorar meus repositórios e entrar em contato para colaborações ou oportunidades de trabalho!
+## 🧠 Technologies
+
+### 🔤 **Programming Languages**
+
+* JavaScript
+* TypeScript
+* Java
+* Go
+* C#
+
+### ⚙️ **Frameworks**
+
+* NestJS
+
+### 🗄️ **Databases**
+
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### 🧩 **Version Control Tools**
+
+* Git
+* GitHub
+
+---
+
+## 📫 Contact
+
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/fernandobarbosa)
+* 📧 **[fernandobarbosa1697@gmail.com](mailto:fernandobarbosa1697@gmail.com)**
+
+---
+
+✨ *Feel free to explore my repositories or reach out for collaborations and job opportunities!*
+
+---
