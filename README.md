@@ -35,11 +35,6 @@ I'm also interested in **contributing to open-source projects** and **collaborat
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoobarbosa&layout=compact&theme=radical)
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoobarbosa&show_icons=true&theme=shades-of-purple)
-
----
-
 ## 📫 Contact
 
 * 💼 [**LinkedIn**](https://www.linkedin.com/in/fernando-barbosa-a790771b8)
