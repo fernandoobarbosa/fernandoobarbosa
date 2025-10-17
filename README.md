@@ -13,7 +13,7 @@ I'm also interested in **contributing to open-source projects** and **collaborat
 ### 🔤 **Programming Languages**
 
 * JavaScript
-* TypeScript
+* [TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 * Java
 * Go
 * C#
