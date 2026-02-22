@@ -2,9 +2,23 @@
 
 ## 💡 About Me
 
-Hello! I'm **Fernando Barbosa**, a **backend developer** passionate about building **efficient** and **scalable** solutions for complex problems.
-With solid experience in software development, I'm always eager to **learn new technologies** and **improve my skills**.
-I'm also interested in **contributing to open-source projects** and **collaborating** with developers from around the world.
+I'm a backend engineer with 4+ years of experience designing and maintaining scalable microservices and event-driven systems.
+
+I specialize in building high-performance APIs using Node.js and Go, focusing on:
+
+Distributed systems
+
+Asynchronous processing
+
+Microservices architecture
+
+Cloud-native applications (AWS)
+
+Performance and scalability
+
+Clean architecture and testing
+
+I have experience participating in code reviews, architectural decisions and building production-ready systems used in real-world environments.
 
 ---
 
