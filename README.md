@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou o Fernando Barbosa 🚀<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/240px-Pok%C3%A9_Ball_icon.svg.png" width="26px"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Oi! Eu sou o Fernando Barbosa 🚀<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">Engenheiro de Software | Back-End Developer</h3>
 <p align="center">
   <a href="mailto:fernandobarbosa1697@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -63,8 +63,6 @@ Sou um desenvolvedor Back-End com mais de 5 anos de experiência com <strong>Nod
 </div>
 <div align="center">
   <a href="https://github.com/fernandoobarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoobarbosa&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoobarbosa&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
 <br>
