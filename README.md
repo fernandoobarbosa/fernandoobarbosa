@@ -81,18 +81,6 @@
 
 <br/>
 
-## 🎒 Item Bag — Featured Projects
-
-<div align="center">
-  <a href="https://github.com/fernandoobarbosa/camoraju-api"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoobarbosa&repo=camoraju-api&hide_border=true&title_color=FFCB05&icon_color=FFCB05&text_color=c9d1d9&bg_color=0D1117" /></a>
-  <a href="https://github.com/fernandoobarbosa/llm-mvp-chat-api"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoobarbosa&repo=llm-mvp-chat-api&hide_border=true&title_color=FFCB05&icon_color=FFCB05&text_color=c9d1d9&bg_color=0D1117" /></a>
-  <br/>
-  <a href="https://github.com/fernandoobarbosa/find-a-friend-api"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoobarbosa&repo=find-a-friend-api&hide_border=true&title_color=FFCB05&icon_color=FFCB05&text_color=c9d1d9&bg_color=0D1117" /></a>
-  <a href="https://github.com/fernandoobarbosa/05-nest-clean"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoobarbosa&repo=05-nest-clean&hide_border=true&title_color=FFCB05&icon_color=FFCB05&text_color=c9d1d9&bg_color=0D1117" /></a>
-</div>
-
-<br/>
-
 <p align="center">📫 Get in touch: <a href="mailto:fernandobarbosa1697@gmail.com">fernandobarbosa1697@gmail.com</a></p>
 
 <!--
