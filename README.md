@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Type-Electric%20%2F%20Backend-FFCB05?style=for-the-badge&labelColor=2C2C2C" alt="Type"/>
 <img src="https://img.shields.io/badge/Status-Still%20Evolving-FFCB05?style=for-the-badge&labelColor=2C2C2C" alt="Status"/>
 
+[![Website](https://img.shields.io/badge/Website-FFCB05?style=for-the-badge&logo=googlechrome&logoColor=2C2C2C)](https://www.fernandoobarbosa.com.br/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandobarbosa1697@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-barbosa-a790771b8/)
 
