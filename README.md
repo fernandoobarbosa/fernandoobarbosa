@@ -15,7 +15,7 @@
 
 **LVL 5 · XP to next evolution (Electabuzz)**
 <br/>
-<img src="https://progress-bar.dev/72/?title=XP&width=280&color=FFCB05" alt="XP progress bar"/>
+<img src="https://img.shields.io/badge/XP-72%25-FFCB05?style=for-the-badge&labelColor=2C2C2C" alt="XP progress bar"/>
 
 </div>
 
@@ -63,21 +63,10 @@
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"/>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg"/>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   </kbd>
 </p>
-
-<br/>
-
-## 📊 Battle Stats — GitHub Overview
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fernandoobarbosa&show_icons=true&hide_border=true&title_color=FFCB05&icon_color=FFCB05&text_color=c9d1d9&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoobarbosa&layout=compact&hide_border=true&title_color=FFCB05&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoobarbosa&hide_border=true&background=0D1117&ring=FFCB05&fire=FFCB05&currStreakLabel=FFCB05" alt="GitHub Streak"/>
-</div>
 
 <br/>
 
